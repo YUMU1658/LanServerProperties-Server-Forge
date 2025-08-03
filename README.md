@@ -1,5 +1,7 @@
 # LAN Server Properties (Server Edition)
 
+[简体中文](README_zh-CN.md)
+
 This is a server-side only Forge mod, adapted from the original [LanServerProperties](https://github.com/rikka0w0/LanServerProperties) mod by rikka0w0.
 
 ## Features
