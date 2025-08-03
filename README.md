@@ -9,7 +9,7 @@ This is a server-side only Forge mod, adapted from the original [LanServerProper
 This mod has one simple but powerful feature:
 *   **Automatic UUID Fix**: When a server is running in offline mode (`online-mode=false`), this mod automatically fetches the genuine UUID for players. This prevents inventory loss when players switch between online and offline servers.
 
-All client-side GUI features from the original mod have been removed.
+All client-side GUI features from the original mod have been removed. This adaptation was largely completed with AI assistance.
 
 ## Installation
 
